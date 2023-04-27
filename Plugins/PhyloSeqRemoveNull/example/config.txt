@@ -1,0 +1,2 @@
+Prefix plugins/PhyloSeqRemoveNull/example
+Plugin PhyloSeqRemoveNull inputfile otu_table.csv outputfile otu_table.final.csv
