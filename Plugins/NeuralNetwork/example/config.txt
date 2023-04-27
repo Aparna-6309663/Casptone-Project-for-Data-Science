@@ -1,1 +1,2 @@
-
+Prefix plugins/NeuralNetwork/example
+Plugin NeuralNetwork inputfile parameters.neuralnetwork.txt outputfile .
