@@ -1,2 +1,2 @@
-Prefix plugins/RandomForest/example/
-Plugin RandomForest inputfile parameters.txt outputfile no_time_warp_results_50_thresh.csv
+Prefix plugins/RF/example
+Plugin RF inputfile parameters.RF.txt outputfile output_rf.csv
