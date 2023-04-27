@@ -1,0 +1,2 @@
+Prefix plugins/FeatureClassify/example
+Plugin FeatureClassify inputfile parameters.feature.txt outputfile samples-taxanomy-clustered.qza
