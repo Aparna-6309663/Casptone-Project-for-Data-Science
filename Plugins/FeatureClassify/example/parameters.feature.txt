@@ -1,0 +1,2 @@
+classifier      QZA/silva-138-99-nb-classifier.qza
+reads   QZA/samples-rep-seqs.qza
