@@ -1,1 +1,2 @@
-
+Prefix plugins/FASTQ2QZA/example
+Plugin FASTQ2QZA inputfile parameters.fastq2qza.txt outputfile output.qza
