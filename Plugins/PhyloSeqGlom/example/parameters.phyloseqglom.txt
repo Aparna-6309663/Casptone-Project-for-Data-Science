@@ -1,0 +1,4 @@
+OTU     CSV/otu.csv
+TAX     asv.taxonomy.csv
+META    output.meta.csv
+LEVEL   Family
