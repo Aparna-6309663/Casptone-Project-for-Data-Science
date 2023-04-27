@@ -1,0 +1,3 @@
+training        pipelines/Parkinsons/CSV/train_data.csv
+traininggroups  pipelines/Parkinsons/CSV/traininggroups.csv
+testing pipelines/Parkinsons/CSV/test_data.csv
