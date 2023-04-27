@@ -1,0 +1,2 @@
+Prefix plugins/PhyloSeqGlom/example
+Plugin PhyloSeqGlom inputfile parameters.txt outputfile .
