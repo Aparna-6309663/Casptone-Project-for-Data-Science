@@ -1,0 +1,2 @@
+Prefix plugins/Svm/example
+Plugin Svm inputfile parameters.Svm.txt outputfile output_svm.csv
