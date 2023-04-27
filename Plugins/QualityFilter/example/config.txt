@@ -1,0 +1,2 @@
+Prefix plugins/QualityFilter/example
+Plugin QualityFilter inputfile output.qza outputfile Samples-demux
