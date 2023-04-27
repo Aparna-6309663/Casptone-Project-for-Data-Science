@@ -1,0 +1,2 @@
+Prefix plugins/DataSplit/example
+Plugin DataSplit inputfile CSV/otu_table_normalized.csv outputfile CSV
