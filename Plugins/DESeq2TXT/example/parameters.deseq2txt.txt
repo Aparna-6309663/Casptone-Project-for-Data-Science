@@ -1,5 +1,5 @@
-taxa    taxa.csv
-deseq   deseq.csv
-group1  A
-group2  B
+taxa    CSV/counts.csv
+deseq   CSV/deseq.csv
+group1  Parkinsons
+group2  Control
 pvalue  0.05
