@@ -1,0 +1,2 @@
+abundances      CSV/counts.csv
+groups  CSV/categories.csv
