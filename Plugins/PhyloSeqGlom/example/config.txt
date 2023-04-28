@@ -1,2 +1,2 @@
 Prefix plugins/PhyloSeqGlom/example
-Plugin PhyloSeqGlom inputfile parameters.txt outputfile .
+Plugin PhyloSeqGlom inputfile parameters.phyloseqglom.txt outputfile .
