@@ -1,0 +1,2 @@
+Prefix plugins/Zip2unzip/example
+Plugin Zip2unzip inputfile samples-taxanomy-clustered.qza outputfile unzipfile
