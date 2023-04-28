@@ -1,5 +1,5 @@
 # NeuralNet
-# Language: R
+# Language: Python
 # Input: TXT (parameters)
 # Output: CSV 
 
