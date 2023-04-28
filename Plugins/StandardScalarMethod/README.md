@@ -1,4 +1,4 @@
-# Standard Scalar Method
+# StandardScalarMethod
 # Language: Python
 # Input: CSV
 # Output: CSV
