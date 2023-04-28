@@ -1,4 +1,4 @@
-# NeuralNet
+# NeuralNetwork
 # Language: Python
 # Input: TXT (parameters)
 # Output: CSV 
