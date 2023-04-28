@@ -1,2 +1,2 @@
 Prefix plugins/StandardScalarMethod/example
-Plugin StandardScalarMethod inputfile unnormalized.csv outputfile normalized.csv
+Plugin StandardScalarMethod inputfile otu_table_final.transpose.csv outputfile otu_table_normalized.csv
