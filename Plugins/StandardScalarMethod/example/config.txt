@@ -1,0 +1,2 @@
+Prefix plugins/StandardScalarMethod/example
+Plugin StandardScalarMethod inputfile unnormalized.csv outputfile normalized.csv
