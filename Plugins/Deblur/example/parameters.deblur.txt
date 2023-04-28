@@ -1,4 +1,4 @@
-inputfile       QZA/Samples-demux-filtered.qza
+inputfile       Samples-demux-filtered.qza
 trimlength      250
 lefttrimlen     0
 meanerror       0.005
