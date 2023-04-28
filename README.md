@@ -25,6 +25,6 @@ ML models - This plugin is used to train machine learning models (random forests
 
 The pipeline is tested on 35 samples, but it can be easily expanded to handle larger datasets by adding more FASTQ files and expanding the manifest.
 
-* - Existed Plugins.
+asterik ones are Existed Plugins in PluMA.
 
 
